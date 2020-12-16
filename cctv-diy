@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="CCTV",0 KM Yogyakarta
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/chunklist_w797659833.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Alun² Selatan DIY
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunSelatan3.stream/chunklist_w1409693452.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Alun² Utara DIY
+https://mam.jogjaprov.go.id:1937/cctv-kp/AlunAlunUtara1.stream/chunklist_w108297307.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Beringharjo DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/chunklist_w256102437.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Candi Prambanan DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiPrambanan.stream/chunklist_w1578296569.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Malioboro DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/chunklist_w1735252186.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Malioboro Mall DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/chunklist_w2049014652.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Mangunan DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1363447093.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Merapi DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w1563702546.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Nglanggeran DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNglanggeran.stream/chunklist_w172440882.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Parangtritis DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewPantaiParangTritis.stream/chunklist_w1470497340.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Simpang Tugu DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/chunklist_w1865669256.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Stasiun Tugu DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/chunklist_w1303369035.m3u8 
+#EXTINF:-1 tvg-id="" group-title="CCTV",Tebing Breksi DIY
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/chunklist_w1301384993.m3u8 
