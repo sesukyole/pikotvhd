@@ -599,16 +599,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
-Yam Code
-Mình có mở dịch vụ YAM Slick (nhấp để xem chi tiết) - bán tài khoản Netflix Premium với giá xí muội. Hi vọng ae ủng hộ!
-avatar
-  taiwan channel
- pikomydog  2  9th May, 2022
 
- Edit
- Delete
-Markup 45.17 KBcopy share embed report print
-#EXTM3U
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #EXTM3U
@@ -1114,25 +1105,3 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="其他频道,#genre#",TVBS
 http://38.64.72.148:80/hls/modn/list/8005/chunklist0.m3u8
-Description
-No description
-
-To share this paste please copy this url and send to your friends
-https://yamcode.com/taiwan-channel
-Comments
-Enter your message here:
-
-There are no comments yet.
-About Yam Code
-Just like online Sublime Text, Yam Code allows you to store anything from texts, notes to the codes you have been dedicated to. But wait! There's more, you can share those with everybody in the blink of an eye! Yam Code is FREE, and will always be.
-
-Pages
-About Us
-FAQ
-Privacy Policy
-Term
-Useful Links
-Syntax Languages
-Contact Us
-Site Languages
-Sitemap
