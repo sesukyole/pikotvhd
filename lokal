@@ -1,143 +1,146 @@
 #EXTM3U
-#EXTINF:-1 group-title="PIKOTV",ANIMAX@pikotvhd
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1 group-title="PIKOTV",ANIPLUS@pikotvhd
-http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="PIKOTV",AREMA TV@pikotvhd
-http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w1920962254.m3u8
-#EXTINF:-1 group-title="PIKOTV",ARIRANG@pikotvhd
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",ATV@pikotvhd
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",BABY FIRST@pikotvhd
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",BALI TV@pikotvhd
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="PIKOTV",BERITA SATU NEWS@pikotvhd
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1 group-title="PIKOTV",BERITA SATU WORLD@pikotvhd
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",BERITA SATU@pikotvhd
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",BLUE ANT ENTERTAINMENT@pikotvhd
-http://210.210.155.35/dr9445/h/h16/02.m3u8
-#EXTINF:-1 group-title="PIKOTV",BLUE ANT EXTREME@pikotvhd
-http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="PIKOTV",CELESTIAL MOVIES@pikotvhd
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",CINEMA WORLD@pikotvhd
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1 group-title="PIKOTV",DAAI TV@pikotvhd
-http://210.210.155.35/qwr9ew/s/s13/02.m3u8
-#EXTINF:-1 group-title="PIKOTV",DISCOVERY ID@pikotvhd
-http://80.80.160.168/live/5/500000/live.m3u8
-#EXTINF:-1 group-title="PIKOTV",DISNEY JUNIOR@pikotvhd
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 group-title="PIKOTV",DIVA HD@pikotvhd
-http://210.210.155.35/uq2663/h/h11/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",DUCK TV@pikotvhd
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1 group-title="PIKOTV",E@pikotvhd
-http://210.210.155.35/uq2663/h/h10/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",EGG NETWORK@pikotvhd
-http://210.210.155.35/uq2663/h/h22/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",FASHION TV MIDNIGHT FHD@pikotvhd
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="PIKOTV",FASHION TV@pikotvhd
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="PIKOTV",FIRST MOVIE@pikotvhd
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1 group-title="PIKOTV",FOODIE CHANNEL@pikotvhd
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",GEM TV ASIA@pikotvhd
-http://210.210.155.35/uq2663/h/h19/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",GLOBAL TV@pikotvhd
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",HBO HITS@pikotvhd
-http://203.207.56.228/live/iptv007.m3u8
-#EXTINF:-1 group-title="PIKOTV",HBO SIGNATURE@pikotvhd
-http://203.207.56.228/live/iptv006.m3u8
-#EXTINF:-1 group-title="PIKOTV",HD FASHION@pikotvhd
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="PIKOTV",HITS@pikotvhd
-http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/02.m3u8
-#EXTINF:-1 group-title="PIKOTV",HOLLYWOOD MOVIES 2 FRIEND SHOW@pikotvhd
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="PIKOTV",HOLLYWOOD MOVIES CHANNEL@pikotvhd
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="PIKOTV",HOME & LIVING@pikotvhd
-http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
-#EXTINF:-1 group-title="PIKOTV",INDOSIAR TV@pikotvhd
-http://45.126.83.51/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="PIKOTV",J CHANNEL@pikotvhd
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",J'GO / FIRSTVMOVIE HD@pikotvhd
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1 group-title="PIKOTV",JAK TV@pikotvhd
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="PIKOTV",JAKARTA GLOBE NEWS@pikotvhd
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",JTV@pikotvhd
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="PIKOTV",K-DRAMA@pikotvhd
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8
-#EXTINF:-1 group-title="PIKOTV",K+@pikotvhd
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",KARAOKE@pikotvhd
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8?
-#EXTINF:-1 group-title="PIKOTV",KIX@pikotvhd
-http://210.210.155.35/uq2663/h/h07/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",KOMPASTV@pikotvhd
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="PIKOTV",MADINAH@pikotvhd
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 group-title="PIKOTV",MAKKAH@pikotvhd
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 group-title="PIKOTV",Maleo@pikotvhd
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",METRO TV HD@pikotvhd
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1 group-title="PIKOTV",METRO TV@pikotvhd
-http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="PIKOTV",MNC SHOP@pikotvhd
-http://202.80.222.130/000001/2/ch16061710145075159643/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="PIKOTV",MY CINEMA@pikotvhd
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 group-title="PIKOTV",NU Channel@pikotvhd
-http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",POP MUSIK@pikotvhd
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",RAJAWALI TV@pikotvhd
-http://45.126.83.51/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 group-title="PIKOTV",RETRO TV@pikotvhd
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",RODJA TV@pikotvhd
-http://45.126.83.51/qwr9ew/s/s14/index2.m3u8
-#EXTINF:-1 group-title="PIKOTV",RRI NET@pikotvhd
-http://36.89.47.217:11935/rrinet/live/index.m3u8?
-#EXTINF:-1 group-title="PIKOTV",RRI Net@pikotvhd
-http://stream1.ninmedia.tv:1935/rrinet/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",SBS@pikotvhd
-http://210.210.155.35/qwr9ew/s/s42/index.m3u8
-#EXTINF:-1 group-title="PIKOTV",SPACETOON@pikotvhd
-http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
-#EXTINF:-1 group-title="PIKOTV",STAR MOVIES@pikotvhd
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?rizkizakaria-Star-
-#EXTINF:-1 group-title="PIKOTV",STAR WORLD@pikotvhd
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 group-title="PIKOTV",TATV SOLO@pikotvhd
-http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",TEGAR TV JOGJA@pikotvhd
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8?
-#EXTINF:-1 group-title="PIKOTV",THE INDONESIA CHANNEL@pikotvhd
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8?
-#EXTINF:-1 group-title="PIKOTV",THRILL HD@pikotvhd
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 group-title="PIKOTV",TVRI@pikotvhd
-http://45.126.83.51/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="PIKOTV",WOWOW MOVIES@pikotvhd
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1 group-title="PIKOTV",ZQ DRAMA KOREA@pikotvhd
-http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
-#EXTINF:-1 group-title="PIKOTV",ZQ SPORT@pikotvhd
-http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
+
+#EXTINF:-1 group-title="DENSTV",tvN
+http://rr1.dens.tv/h/h20/01.m3u8
+#EXTINF:-1 group-title="DENSTV",tvN MOVIES
+http://rr1.dens.tv/h/h21/01.m3u8
+#EXTINF:-1 group-title="DENSTV",AL JAZEERA ARABIC
+http://rr2.dens.tv/s/s16/01.m3u8
+#EXTINF:-1 group-title="DENSTV",AL JAZEERA ENGLISH
+http://rr2.dens.tv/s/s17/01.m3u8
+#EXTINF:-1 group-title="DENSTV",ANIMAX
+http://rr1.dens.tv/h/h144/01.m3u8
+#EXTINF:-1 group-title="DENSTV",ANIPLUS
+http://rr1.dens.tv/h/h02/01.m3u8
+#EXTINF:-1 group-title="DENSTV",ANTV
+http://rr2.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 group-title="DENSTV",AXN
+http://rr1.dens.tv/h/h141/01.m3u8
+#EXTINF:-1 group-title="DENSTV",BALI TV
+http://rr.dens.tv/h/h159/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",BLOOMBERG
+http://rr1.dens.tv/h/h03/01.m3u8
+#EXTINF:-1 group-title="DENSTV",BLUE ANT ENTERTAINMENT
+http://rr1.dens.tv/h/h16/01.m3u8
+#EXTINF:-1 group-title="DENSTV",BLUE ANT EXTREME
+http://rr1.dens.tv/h/h15/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CCTV4
+http://rr2.dens.tv/s/s19/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CELESTIAL MOVIES
+http://rr2.dens.tv/s/s33/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CGTN
+http://rr2.dens.tv/s/s20/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CHANNEL NEWS ASIA
+http://rr.dens.tv/h/h29/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CINEMAEUROPE
+http://rr.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 group-title="DENSTV",CINEMAWORLD
+http://rr1.dens.tv/h/h04/01.m3u8
+#EXTINF:-1 group-title="DENSTV",FIGHT SPORTS
+http://rr3.dens.tv/h/h05/01.m3u8
+#EXTINF:-1 group-title="DENSTV",FILMY
+http://rr.dens.tv/h/h154/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",FRANCE24
+http://rr2.dens.tv/s/s22/01.m3u8
+#EXTINF:-1 group-title="DENSTV",HITS
+http://rr1.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 group-title="DENSTV",INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 group-title="DENSTV",JAKTV
+http://rr3.dens.tv/s/s46/index.m3u8
+#EXTINF:-1 group-title="DENSTV",JTV
+http://rr3.dens.tv/s/s91/index.m3u8
+#EXTINF:-1 group-title="DENSTV",K+
+http://rr.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 group-title="DENSTV",KIX
+http://rr1.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 group-title="DENSTV",KOMPAS TV
+http://rr2.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 group-title="DENSTV",KSA
+http://rr.dens.tv/h/h151/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",Learning&Knowledge
+http://rr.dens.tv/h/h97/index.m3u8
+#EXTINF:-1 group-title="DENSTV",LIFESTYLE
+http://rr1.dens.tv/h/h28/01.m3u8
+#EXTINF:-1 group-title="DENSTV",Live Streaming
+http://rr3.dens.tv/s/s37/index.m3u8
+#EXTINF:-1 group-title="DENSTV",METROTV
+http://rr3.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 group-title="DENSTV",MKIDZ
+http://rr.dens.tv/h/h98/index.m3u8
+#EXTINF:-1 group-title="DENSTV",MOTORVISION
+http://rr.dens.tv/h/h09/01.m3u8
+#EXTINF:-1 group-title="DENSTV",MyCINEMA
+http://rr.dens.tv/h/h90/index.m3u8
+#EXTINF:-1 group-title="DENSTV",MyCINEMA ASIA
+http://rr.dens.tv/h/h93/index.m3u8
+#EXTINF:-1 group-title="DENSTV",MyTV
+http://rr2.dens.tv/s/s46/01.m3u8
+#EXTINF:-1 group-title="DENSTV",NET.
+http://rr2.dens.tv/s/s08/01.m3u8
+#EXTINF:-1 group-title="DENSTV",NHK WORLD
+http://rr.dens.tv/h/h23/01.m3u8
+#EXTINF:-1 group-title="DENSTV",PHOENIX
+http://rr2.dens.tv/s/s21/01.m3u8
+#EXTINF:-1 group-title="DENSTV",PHOENIX CHINESE
+http://rr.dens.tv/h/h157/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",Quran TV
+http://rr2.dens.tv/s/s28/01.m3u8
+#EXTINF:-1 group-title="DENSTV",RAI ITALIA
+http://rr3.dens.tv/s/s63/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",RODJATV
+http://rr2.dens.tv/s/s14/01.m3u8
+#EXTINF:-1 group-title="DENSTV",RT
+http://rr2.dens.tv/s/s23/01.m3u8
+#EXTINF:-1 group-title="DENSTV",RTP
+http://rr2.dens.tv/s/s38/01.m3u8
+#EXTINF:-1 group-title="DENSTV",RTV
+http://rr2.dens.tv/s/s12/01.m3u8
+#EXTINF:-1 group-title="DENSTV",SCTV
+http://rr2.dens.tv/s/s03/01.m3u8
+#EXTINF:-1 group-title="DENSTV",SHANGHAI DRAGON TV
+http://rr2.dens.tv/s/s29/01.m3u8
+#EXTINF:-1 group-title="DENSTV",SINEMA INDONESIA
+http://rr.dens.tv/h/h155/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",SONY GEM
+http://rr.dens.tv/h/h19/01.m3u8
+#EXTINF:-1 group-title="DENSTV",SONY ONE
+http://rr.dens.tv/h/h143/01.m3u8
+#EXTINF:-1 group-title="DENSTV",STAR
+http://rr3.dens.tv/s/s94/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",STYLE
+http://rr1.dens.tv/h/h01/01.m3u8
+#EXTINF:-1 group-title="DENSTV",Sunna TV
+http://rr2.dens.tv/s/s27/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TBN
+http://rr2.dens.tv/s/s39/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TELENOVELA
+http://rr.dens.tv/h/h153/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",THRILL
+http://rr2.dens.tv/s/s34/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TOONMAX
+http://rr2.dens.tv/s/s50/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TRANS7
+http://rr2.dens.tv/s/s101/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TRANSTV
+http://rr3.dens.tv/s/s72/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TRT WORLD
+http://rr.dens.tv/h/h156/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",TV5MONDE
+http://rr1.dens.tv/s/s24/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TVE
+http://rr.dens.tv/h/h158/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",TVONE
+http://rr2.dens.tv/s/s105/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TVRI
+http://rr2.dens.tv/s/s11/01.m3u8
+#EXTINF:-1 group-title="DENSTV",TVRI SPORT
+http://rr2.dens.tv/s/s107/01.m3u8
+#EXTINF:-1 group-title="DENSTV",U CHANNEL
+http://rr2.dens.tv/s/s41/01.m3u8
+#EXTINF:-1 group-title="DENSTV",UA
+http://rr.dens.tv/h/h101/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",WION
+http://rr.dens.tv/h/h91/index2.m3u8
+#EXTINF:-1 group-title="DENSTV",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/01.m3u8
