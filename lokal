@@ -8,14 +8,10 @@ http://rr1.dens.tv/h/h21/01.m3u8
 http://rr2.dens.tv/s/s16/01.m3u8
 #EXTINF:-1 group-title="DENSTV",AL JAZEERA ENGLISH
 http://rr2.dens.tv/s/s17/01.m3u8
-#EXTINF:-1 group-title="DENSTV",ANIMAX
-http://rr1.dens.tv/h/h144/01.m3u8
 #EXTINF:-1 group-title="DENSTV",ANIPLUS
 http://rr1.dens.tv/h/h02/01.m3u8
 #EXTINF:-1 group-title="DENSTV",ANTV
 http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 group-title="DENSTV",AXN
-http://rr1.dens.tv/h/h141/01.m3u8
 #EXTINF:-1 group-title="DENSTV",BALI TV
 http://rr.dens.tv/h/h159/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",BLOOMBERG
@@ -26,8 +22,6 @@ http://rr1.dens.tv/h/h16/01.m3u8
 http://rr1.dens.tv/h/h15/01.m3u8
 #EXTINF:-1 group-title="DENSTV",CCTV4
 http://rr2.dens.tv/s/s19/01.m3u8
-#EXTINF:-1 group-title="DENSTV",CELESTIAL MOVIES
-http://rr2.dens.tv/s/s33/01.m3u8
 #EXTINF:-1 group-title="DENSTV",CGTN
 http://rr2.dens.tv/s/s20/01.m3u8
 #EXTINF:-1 group-title="DENSTV",CHANNEL NEWS ASIA
@@ -36,8 +30,6 @@ http://rr.dens.tv/h/h29/01.m3u8
 http://rr.dens.tv/h/h18/01.m3u8
 #EXTINF:-1 group-title="DENSTV",CINEMAWORLD
 http://rr1.dens.tv/h/h04/01.m3u8
-#EXTINF:-1 group-title="DENSTV",FIGHT SPORTS
-http://rr3.dens.tv/h/h05/01.m3u8
 #EXTINF:-1 group-title="DENSTV",FILMY
 http://rr.dens.tv/h/h154/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",FRANCE24
@@ -46,10 +38,6 @@ http://rr2.dens.tv/s/s22/01.m3u8
 http://rr1.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 group-title="DENSTV",INDOSIAR
 http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 group-title="DENSTV",JAKTV
-http://rr3.dens.tv/s/s46/index.m3u8
-#EXTINF:-1 group-title="DENSTV",JTV
-http://rr3.dens.tv/s/s91/index.m3u8
 #EXTINF:-1 group-title="DENSTV",K+
 http://rr.dens.tv/h/h08/01.m3u8
 #EXTINF:-1 group-title="DENSTV",KIX
@@ -58,24 +46,12 @@ http://rr1.dens.tv/h/h07/01.m3u8
 http://rr2.dens.tv/s/s104/01.m3u8
 #EXTINF:-1 group-title="DENSTV",KSA
 http://rr.dens.tv/h/h151/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",Learning&Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 group-title="DENSTV",LIFESTYLE
-http://rr1.dens.tv/h/h28/01.m3u8
 #EXTINF:-1 group-title="DENSTV",Live Streaming
 http://rr3.dens.tv/s/s37/index.m3u8
-#EXTINF:-1 group-title="DENSTV",METROTV
-http://rr3.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 group-title="DENSTV",MKIDZ
-http://rr.dens.tv/h/h98/index.m3u8
 #EXTINF:-1 group-title="DENSTV",MOTORVISION
 http://rr.dens.tv/h/h09/01.m3u8
 #EXTINF:-1 group-title="DENSTV",MyCINEMA
 http://rr.dens.tv/h/h90/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MyCINEMA ASIA
-http://rr.dens.tv/h/h93/index.m3u8
-#EXTINF:-1 group-title="DENSTV",MyTV
-http://rr2.dens.tv/s/s46/01.m3u8
 #EXTINF:-1 group-title="DENSTV",NET.
 http://rr2.dens.tv/s/s08/01.m3u8
 #EXTINF:-1 group-title="DENSTV",NHK WORLD
@@ -90,16 +66,10 @@ http://rr2.dens.tv/s/s28/01.m3u8
 http://rr3.dens.tv/s/s63/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",RODJATV
 http://rr2.dens.tv/s/s14/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RT
-http://rr2.dens.tv/s/s23/01.m3u8
 #EXTINF:-1 group-title="DENSTV",RTP
 http://rr2.dens.tv/s/s38/01.m3u8
-#EXTINF:-1 group-title="DENSTV",RTV
-http://rr2.dens.tv/s/s12/01.m3u8
 #EXTINF:-1 group-title="DENSTV",SCTV
 http://rr2.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 group-title="DENSTV",SHANGHAI DRAGON TV
-http://rr2.dens.tv/s/s29/01.m3u8
 #EXTINF:-1 group-title="DENSTV",SINEMA INDONESIA
 http://rr.dens.tv/h/h155/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",SONY GEM
@@ -108,8 +78,6 @@ http://rr.dens.tv/h/h19/01.m3u8
 http://rr.dens.tv/h/h143/01.m3u8
 #EXTINF:-1 group-title="DENSTV",STAR
 http://rr3.dens.tv/s/s94/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",STYLE
-http://rr1.dens.tv/h/h01/01.m3u8
 #EXTINF:-1 group-title="DENSTV",Sunna TV
 http://rr2.dens.tv/s/s27/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TBN
@@ -120,14 +88,10 @@ http://rr.dens.tv/h/h153/index2.m3u8
 http://rr2.dens.tv/s/s34/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TOONMAX
 http://rr2.dens.tv/s/s50/01.m3u8
-#EXTINF:-1 group-title="DENSTV",TRANS7
-http://rr2.dens.tv/s/s101/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRANSTV
 http://rr3.dens.tv/s/s72/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TRT WORLD
 http://rr.dens.tv/h/h156/index2.m3u8
-#EXTINF:-1 group-title="DENSTV",TV5MONDE
-http://rr1.dens.tv/s/s24/01.m3u8
 #EXTINF:-1 group-title="DENSTV",TVE
 http://rr.dens.tv/h/h158/index2.m3u8
 #EXTINF:-1 group-title="DENSTV",TVONE
